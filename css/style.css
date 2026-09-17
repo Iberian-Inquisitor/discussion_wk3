@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    font-size: 2em;
+}
+
+h2 {
+    color: green;
+    font-size: 1.5em;
+}
+h1 {
+    font-family: Courier, impact, Arial;
+    font-size: 2em;
+}
+
+h2 {
+    font-family: Times;
+    font-size: 1.5em;
+}
+div {
+    font-family: Courier, impact, Arial;
+    font-size: 1.5em;
+    font-style: Oblique;
+
+}
+body {
+    background-color: #6e1959ed;
+}
+/* man this is so Y2K! if you only use the default styles, you will get a very Y2K look. I am not sure if that is what you want, but it is what you will get. */
